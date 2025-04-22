@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/diagrams.main.iml" filepath="$PROJECT_DIR$/.idea/modules/diagrams.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/diagrams.test.iml" filepath="$PROJECT_DIR$/.idea/modules/diagrams.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/src.main.iml" filepath="$PROJECT_DIR$/.idea/modules/src.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/src.test.iml" filepath="$PROJECT_DIR$/.idea/modules/src.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/torneo-esports-uml.iml" filepath="$PROJECT_DIR$/.idea/torneo-esports-uml.iml" />
+    </modules>
+  </component>
+</project>
